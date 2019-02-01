@@ -108,6 +108,8 @@
     "nation": "usa"
   },
   {
+    "userId": 2,
+    "id": 13,
     "prize": "$600,000",
     "group": "G1",
     "status": "G1",
