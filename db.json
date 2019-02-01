@@ -1,5 +1,4 @@
-{
-  "womens": [
+[
     {
       "id": 1,
       "prize": "$60,000 Lexington",
@@ -48,5 +47,4 @@
       "op": "",
       "nation": "fra"
     }
-  ],
-}
+  ]
