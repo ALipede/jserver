@@ -6,7 +6,7 @@
       "group": "G1",
       "live": "live",
       "op": "op",
-      "nation": "usa",
+      "nation": "usa"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "group": "G1",
       "live": "live",
       "op": "",
-      "nation": "ger",
+      "nation": "ger"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "group": "G1",
       "live": "live",
       "op": "",
-      "nation": "gbr",
+      "nation": "gbr"
     }
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "group": "G1",
       "live": "live",
       "op": "op",
-      "nation": "usa",
+      "nation": "esp"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "group": "G1",
       "live": "live",
       "op": "",
-      "nation": "ger",
+      "nation": "and"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "group": "G1",
       "live": "live",
       "op": "",
-      "nation": "gbr",
+      "nation": "fra"
     }
   ],
 }
