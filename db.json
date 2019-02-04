@@ -15,7 +15,7 @@
     "group": "G1",
     "status": "Live",
     "op": "",
-    "nation": "usa"
+    "nation": "ger"
   },
   {
     "userId": 1,
@@ -24,7 +24,7 @@
     "group": "G1",
     "status": "",
     "op": "op",
-    "nation": "usa"
+    "nation": "gbr"
   },
   {
     "userId": 1,
@@ -33,7 +33,7 @@
     "group": "G1",
     "status": "Live",
     "op": "",
-    "nation": "usa"
+    "nation": "esp"
   },
   {
     "userId": 1,
@@ -42,7 +42,7 @@
     "group": "G1",
     "status": "Live",
     "op": "op",
-    "nation": "usa"
+    "nation": "ita"
   },
   {
     "userId": 1,
@@ -51,7 +51,7 @@
     "group": "G1",
     "status": "Live",
     "op": "op",
-    "nation": "usa"
+    "nation": "fra"
   },
   {
     "userId": 1,
@@ -60,7 +60,7 @@
     "group": "G1",
     "status": "Live",
     "op": "",
-    "nation": "usa"
+    "nation": "sui"
   },
   {
     "userId": 1,
@@ -69,7 +69,7 @@
     "group": "G1",
     "status": "Live",
     "op": "",
-    "nation": "usa"
+    "nation": "swe"
   },
   {
     "userId": 1,
@@ -78,7 +78,7 @@
     "group": "G1",
     "status": "Live",
     "op": "op",
-    "nation": "usa"
+    "nation": "arg"
   },
   {
     "userId": 1,
@@ -87,7 +87,7 @@
     "group": "G1",
     "status": "Live",
     "op": "op",
-    "nation": "usa"
+    "nation": "bra"
   },
   {
     "userId": 2,
