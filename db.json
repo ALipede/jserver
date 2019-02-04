@@ -12,7 +12,7 @@
     "userId": 1,
     "id": 2,
     "prize": "$250,000",
-    "group": "G1",
+    "group": "G2",
     "status": "Live",
     "op": "",
     "nation": "ger"
@@ -21,7 +21,7 @@
     "userId": 1,
     "id": 3,
     "prize": "Working Masters",
-    "group": "G1",
+    "group": "G3",
     "status": "",
     "op": "op",
     "nation": "gbr"
@@ -39,7 +39,7 @@
     "userId": 1,
     "id": 5,
     "prize": "$600,000",
-    "group": "G1",
+    "group": "G4",
     "status": "Live",
     "op": "op",
     "nation": "ita"
@@ -48,7 +48,7 @@
     "userId": 1,
     "id": 6,
     "prize": "$600,000",
-    "group": "G1",
+    "group": "G5",
     "status": "Live",
     "op": "op",
     "nation": "fra"
@@ -66,7 +66,7 @@
     "userId": 1,
     "id": 8,
     "prize": "$600,000",
-    "group": "G1",
+    "group": "G2",
     "status": "Live",
     "op": "",
     "nation": "swe"
@@ -75,7 +75,7 @@
     "userId": 1,
     "id": 9,
     "prize": "$600,000",
-    "group": "G1",
+    "group": "G4",
     "status": "Live",
     "op": "op",
     "nation": "arg"
@@ -84,7 +84,7 @@
     "userId": 1,
     "id": 10,
     "prize": "$600,000",
-    "group": "G1",
+    "group": "G5",
     "status": "Live",
     "op": "op",
     "nation": "bra"
