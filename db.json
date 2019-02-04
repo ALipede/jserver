@@ -11,7 +11,7 @@
   {
     "userId": 1,
     "id": 2,
-    "prize": "$600,000",
+    "prize": "$250,000",
     "group": "G1",
     "status": "G1",
     "op": "G1",
@@ -20,7 +20,7 @@
   {
     "userId": 1,
     "id": 3,
-    "prize": "$600,000",
+    "prize": "Working Masters",
     "group": "G1",
     "status": "G1",
     "op": "G1",
@@ -29,7 +29,7 @@
   {
     "userId": 1,
     "id": 4,
-    "prize": "$600,000",
+    "prize": "$15,000",
     "group": "G1",
     "status": "G1",
     "op": "G1",
