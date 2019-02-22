@@ -1,0 +1,23 @@
+{
+ tournament :   [
+        {
+            "pageId" : 1, 
+            "name" : "Japan Men's $50,000",
+            "tournamentKey" : "M-ITF-NGR-02A-2019",
+            "isLive": false ,
+            "nationName" : "Nigeria",
+            "nationCode": "NGR"
+        },
+        {
+            "pageId" : 2, 
+            "name" : "Japan Men's $50,000",
+            "tournamentKey" : "M-ITF-NGR-02A-2019",
+            "isLive": false ,
+            "nationName" : "Nigeria",
+            "nationCode": "NGR"
+        }
+    ]
+
+    
+
+}
