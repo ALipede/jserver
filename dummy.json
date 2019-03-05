@@ -1,6 +1,0 @@
-{
-  "type": "string",
-  "faker": {
-    "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}",
-  }
-}
