@@ -1,0 +1,21 @@
+[
+  {
+    "type": "string",
+    "faker": {
+      "id": 1,
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}",
+    },
+    "faker": {
+      "id": 2,
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}",
+    },
+    "faker": {
+      "id": 3,
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}",
+    },
+    "faker": {
+      "id": 5,
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}",
+    },
+  }
+]
