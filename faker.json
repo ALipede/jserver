@@ -3,10 +3,19 @@
     "type": "string",
     "faker": {
       "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}"
-    }
-  },
-  {
-    "type": "string",
+    },
+    "faker": {
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}"
+    },
+    "faker": {
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}"
+    },
+    "faker": {
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}"
+    },
+    "faker": {
+      "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}"
+    },
     "faker": {
       "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}"
     }
