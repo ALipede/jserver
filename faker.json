@@ -6,6 +6,7 @@
     "items": {
       "type": "string",
     "faker": {
+      "id": 1,
       "fake": "{{name.lastName}}, {{name.firstName}} {{name.suffix}}"
     }
     }
